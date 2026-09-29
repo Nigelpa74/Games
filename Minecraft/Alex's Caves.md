@@ -88,3 +88,4 @@ Sopa primordial = Prisa minera
 - Arrojar el artefacto al volcán y comienza la BOOSFIGHT.
 
 - Al derrotarlo nos dará los fratgmentos de TRONITUS.
+
